@@ -16,7 +16,7 @@
 1. Clone the repository and navigate to the downloaded folder.
 
 	```
-		git clone https://github.com/Lynchez/Cpp-Learning
+		git clone https://github.com/DevC-Istanbul/Cpp-Learning
 		cd OpenCV-Learning
 	```
 	
