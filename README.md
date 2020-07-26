@@ -1,4 +1,4 @@
-# Learning C++ from Strach
+# Learning C++ 
 
 [//]: # (Image Reference)
 
